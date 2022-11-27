@@ -6,3 +6,7 @@ my name is ahmed hany
 watch me
 
 hello again testing
+
+# local
+
+1.open .html file in browser
